@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 16px;
+   
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #fafafa;
+    color: #212121;
+    line-height: 1.5;
+    list-style: none;
+  }
+  
+  input {
+    padding: 8px;
+    font: inherit;
+  }
+  
+  button {
+    padding: 8px 12px;
+    cursor: pointer;
+  }
