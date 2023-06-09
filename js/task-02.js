@@ -20,4 +20,4 @@ const liEl = ingredients.map( ingredient => {
     return itemEl ;
 }
     );
-    console.log(...liEl)
+    ulEl.append(...liEl)
